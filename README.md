@@ -13,3 +13,7 @@
 	- С помощью Python и SQL подготовлены данные для исследования, затем с применением Tableau выполнен анализ данных и подготовлены презентационные материалы / Using Python and SQL to prepare data for the study, then using Tableau to analyse the data and prepare presentation materials.
 	- Область деятельности / sphere: data analysis, marketing.
 	- использованные инструменты / used instruments: Python, pandas, SQL, Tableau.
+	
+	для просмотра проекта в Tableau можно кликнуть [тут](https://public.tableau.com/app/profile/lev.sutulov/viz/NPS_analysis_16877870962290/sheet0)
+
+	to view the project in Tableau you can click [here](https://public.tableau.com/app/profile/lev.sutulov/viz/NPS_analysis_16877870962290/sheet0)
