@@ -8,4 +8,8 @@
 	- Область деятельности / sphere: data analysis, marketing.
 	- использованные инструменты / used instruments: Python, pandas, seaborn, plotly, folium.
 
-2. 
+2. Сборный проект "Исследования уровня потребительской лояльности пользователей телекоммуникационной компании" / Collection project "Research on the level of Net Promoter Score of a telecommunications company".
+
+	- С помощью Python и SQL подготовлены данные для исследования, затем с применением Tableau выполнен анализ данных и подготовлены презентационные материалы / Using Python and SQL to prepare data for the study, then using Tableau to analyse the data and prepare presentation materials.
+	- Область деятельности / sphere: data analysis, marketing.
+	- использованные инструменты / used instruments: Python, pandas, SQL, Tableau.
