@@ -17,3 +17,11 @@
 	для просмотра проекта в Tableau можно кликнуть [тут](https://public.tableau.com/app/profile/lev.sutulov/viz/NPS_analysis_16877870962290/sheet0)
 
 	to view the project in Tableau you can click [here](https://public.tableau.com/app/profile/lev.sutulov/viz/NPS_analysis_16877870962290/sheet0)
+
+3. Анализ работы развлекательного приложения Procrastinate Pro+ / Analysis of the entertainment application Procrastinate Pro +.
+
+	- С применением инструментов маркетингового анализа определены причины убытков компании и сформулированы рекомендации, чтобы обспечить безубыточность. Для проведения анализа использовались логи сервера с данными о посещении пользователями, данные по покупкам пользователей, данные по 
+рекламным расходам / With the use of marketing analysis tools, the causes of the company's losses were identified and recommendations were formulated to ensure break-even. For the analysis, server logs were used with data on user visits, data on user purchases, data on
+advertising expenses.
+	- Область деятельности / sphere: data analysis, marketing.
+	- использованные инструменты / used instruments: Python, pandas, seaborn, plotly, numpy.	
