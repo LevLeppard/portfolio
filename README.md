@@ -24,4 +24,12 @@
 рекламным расходам / With the use of marketing analysis tools, the causes of the company's losses were identified and recommendations were formulated to ensure break-even. For the analysis, server logs were used with data on user visits, data on user purchases, data on
 advertising expenses.
 	- Область деятельности / sphere: data analysis, marketing.
-	- использованные инструменты / used instruments: Python, pandas, seaborn, plotly, numpy.	
+	- использованные инструменты / used instruments: Python, pandas, seaborn, plotly, numpy.
+
+4._________
+
+5. Исследование данных сервиса проката самокатов Go Fast с проверкой стсатистических гипотез/A study of Go Fast scooter rental service data with testing of stsatistical hypotheses.
+
+	- подготовлен исследовательский анализ по выборке данных сервиса проката самокатов, проверены статитстические гипотезы с использованием библиотек Python / Research analysis on a sample of scooter rental service data was prepared, statistical hypotheses were tested using Python libraries.
+	- Область деятельности / sphere: data analysis, marketing.
+	- использованные инструменты / used instruments: Python, pandas, seaborn, plotly, numpy, scipy, math.
