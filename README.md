@@ -26,9 +26,15 @@ advertising expenses.
 	- Область деятельности / sphere: data analysis, marketing.
 	- использованные инструменты / used instruments: Python, pandas, seaborn, plotly, numpy.
 
-4._________
+4. Анализ активности пользователей-авторов, а также процедуры голосования на портале Wikipedia / Analysis of user-author activity and voting procedures on Wikipedia
 
-5. Исследование данных сервиса проката самокатов Go Fast с проверкой стсатистических гипотез/A study of Go Fast scooter rental service data with testing of stsatistical hypotheses.
+	- С помощью Python проанализированы данные об активности пользователей-авторов Wikipedia за 2007 - 2023 годы, а также данные о процедуре голосования за авторов портала Wikipedia за период 2008 - 2023 годы / Using Python, we analyzed Wikipedia user-author activity data for the years 2007 - 2023, as well as data on the voting procedure for Wikipedia portal authors for the years 2008 - 2023.
+	- Область деятельности / sphere: data analysis, marketing.
+	- использованные инструменты / used instruments: Python, pandas, seaborn, matplotlib.pyplot, numpy etc.
+
+В данной работе мы проведём анализ активности пользователей, сделаем сегментацию. Также проанализируем динамику голосований в различной разбивке, попробуем выявить интересные неявные закономерности.
+
+5. Исследование данных сервиса проката самокатов Go Fast с проверкой стсатистических гипотез / A study of Go Fast scooter rental service data with testing of stsatistical hypotheses.
 
 	- подготовлен исследовательский анализ по выборке данных сервиса проката самокатов, проверены статитстические гипотезы с использованием библиотек Python / Research analysis on a sample of scooter rental service data was prepared, statistical hypotheses were tested using Python libraries.
 	- Область деятельности / sphere: data analysis, marketing.
