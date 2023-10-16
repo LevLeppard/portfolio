@@ -32,8 +32,6 @@ advertising expenses.
 	- Область деятельности / sphere: data analysis, marketing.
 	- использованные инструменты / used instruments: Python, pandas, seaborn, matplotlib.pyplot, numpy etc.
 
-В данной работе мы проведём анализ активности пользователей, сделаем сегментацию. Также проанализируем динамику голосований в различной разбивке, попробуем выявить интересные неявные закономерности.
-
 5. Исследование данных сервиса проката самокатов Go Fast с проверкой стсатистических гипотез / A study of Go Fast scooter rental service data with testing of stsatistical hypotheses.
 
 	- подготовлен исследовательский анализ по выборке данных сервиса проката самокатов, проверены статитстические гипотезы с использованием библиотек Python / Research analysis on a sample of scooter rental service data was prepared, statistical hypotheses were tested using Python libraries.
