@@ -37,3 +37,9 @@ advertising expenses.
 	- подготовлен исследовательский анализ по выборке данных сервиса проката самокатов, проверены статитстические гипотезы с использованием библиотек Python / Research analysis on a sample of scooter rental service data was prepared, statistical hypotheses were tested using Python libraries.
 	- Область деятельности / sphere: data analysis, marketing.
 	- использованные инструменты / used instruments: Python, pandas, seaborn, plotly, numpy, scipy, math.
+
+6. Приоретизация гипотез, А/В - тестирование и анализ результатов для увеличения выручки интернет-магазина / Hypothesis prioritization, A/B - testing and analysis of results to increase online store revenue.
+
+	- С помощью Python проанализированы результаты А/В - тестирования гипотез о статистической значимости различий в данных двух групп пользователей интернет-магазина / Using Python, we analyzed the results of A/B - hypothesis testing on the statistical significance of differences in the data of two groups of online store users.
+	- Область деятельности / sphere: data analysis, marketing.
+	- использованные инструменты / used instruments: Python, pandas, seaborn, matplotlib.pyplot, numpy, scipy.stats etc.
