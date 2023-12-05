@@ -43,3 +43,9 @@ advertising expenses.
 	- С помощью Python проанализированы результаты А/В - тестирования гипотез о статистической значимости различий в данных двух групп пользователей интернет-магазина / Using Python, we analyzed the results of A/B - hypothesis testing on the statistical significance of differences in the data of two groups of online store users.
 	- Область деятельности / sphere: data analysis, marketing.
 	- использованные инструменты / used instruments: Python, pandas, seaborn, matplotlib.pyplot, numpy, scipy.stats etc.
+
+7. Разработка рекомендаций для сети фитнес-центров по стратегии взаимодействия с клиентами на основе аналитических данных / Developing recommendations for a fitness center chain on customer interaction strategy based on analytical data.
+
+	- С применением библиотек Python проведен исследовательский анализ даннных сети фитнес-центров, с помощью элементов машинного обучения построены модели прогнозирования оттока клиентов, проведена кластеризация клиентов, сформулированы рекомендации по стратегии удержания клиентов / Using Python libraries, a research analysis of fitness center network data was conducted, models for predicting customer churn were built using machine learning elements, customer clustering was performed, and recommendations on customer retention strategies were formulated.
+	- Область деятельности / sphere: data analysis, machine learning, marketing.
+	- использованные инструменты / used instruments: Python, pandas, seaborn, matplotlib.pyplot, numpy, scipy.stats, sklearn etc.
