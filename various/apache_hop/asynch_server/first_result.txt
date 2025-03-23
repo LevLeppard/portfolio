@@ -1,0 +1,11 @@
+first;second
+Rembrandt;Piper PA-28 Cherokee
+Magritte;An-32
+Kandinsky;MiG-17
+Edward Hopper;Yak-152
+Cezanne;Beechcraft Queen Air
+Winslow Homer;Su-57
+Chagall;Dassault Rafale
+Cassatt;Boeing 757
+Matisse;Su-20
+Chagall;Zenith STOL CH 701

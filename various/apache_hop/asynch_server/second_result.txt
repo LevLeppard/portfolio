@@ -1,0 +1,11 @@
+first;second
+Hryvnia;gold
+Won;fuchsia
+Tala;lime
+Lempira;green
+Rand;salmon
+Saudi Riyal;orange
+Denar;salmon
+Tala;turquoise
+Aruban Guilder;red
+Rial Omani;violet

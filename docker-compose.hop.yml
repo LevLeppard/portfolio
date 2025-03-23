@@ -1,0 +1,18 @@
+services:
+  hop-asynch-server:
+    image: apache/hop:latest
+    container_name: hop-asynch-server
+    ports:
+      - "8181:8181"
+    volumes:
+      - ./various/apache_hop/asynch_server:/files/asynch_server
+    environment:
+      - HOP_SERVER_METADATA_FOLDER=/files/asynch_server/metadata/async-web-service
+      - HOP_PROJECT_FOLDER=/files/asynch_server
+      - HOP_PROJECT_NAME=asynch_server
+      - HOP_RUN_CONFIG=local
+      - HOP_LOG_LEVEL=ERROR
+      - HOP_SERVER_USER=admin
+      - HOP_SERVER_PASS=admin
+      - HOP_SERVER_PORT=8181
+      - HOP_SERVER_HOSTNAME=0.0.0.0

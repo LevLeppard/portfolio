@@ -1,0 +1,9 @@
+{
+  "virtualPath": "",
+  "filename": "${PROJECT_HOME}/first.hwf",
+  "bodyContentVariable": "ASYNC_CONTENT",
+  "name": "workflow_first",
+  "runConfigurationName": "local",
+  "statusVariables": "",
+  "enabled": true
+}
