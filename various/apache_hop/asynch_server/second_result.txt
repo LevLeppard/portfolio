@@ -1,11 +1,11 @@
 first;second
-Hryvnia;gold
-Won;fuchsia
-Tala;lime
-Lempira;green
-Rand;salmon
-Saudi Riyal;orange
-Denar;salmon
-Tala;turquoise
-Aruban Guilder;red
-Rial Omani;violet
+Russian Ruble;olive
+Leone;orange
+Cordoba Oro;orchid
+Pula;mint green
+Iceland Krona;orchid
+Ouguiya;orange
+Lempira;purple
+Manat;fuchsia
+Zimbabwe Dollar;indigo
+Balboa US Dollar;violet

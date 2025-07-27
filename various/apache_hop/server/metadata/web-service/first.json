@@ -1,0 +1,12 @@
+{
+  "transformName": "Text file output",
+  "virtualPath": "",
+  "fieldName": "role",
+  "filename": "${PROJECT_HOME}/first.hpl",
+  "bodyContentVariable": "",
+  "listingStatus": true,
+  "name": "first",
+  "runConfigurationName": "local",
+  "contentType": "application/json",
+  "enabled": true
+}

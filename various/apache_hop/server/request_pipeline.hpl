@@ -76,7 +76,10 @@
 header = JSON.stringify({"Content-Type": "application/json"});
 
 body = JSON.stringify({
-  "runConfiguration": "local"
+  "name": "first",
+  "filePath": "server/first.hpl",
+  "projectName": "server",
+  "environmentName": "server"
 });
 </jsScript_script>
       </jsScript>
@@ -148,12 +151,12 @@ body = JSON.stringify({
     </result>
     <trustStoreFile/>
     <trustStorePassword>Encrypted </trustStorePassword>
-    <url>http://localhost:8181/hop/webService/?service=test</url>
+    <url>http://localhost:8282/hop/startPipeline?name=first</url>
     <urlField/>
     <urlInField>N</urlInField>
     <attributes/>
     <GUI>
-      <xloc>672</xloc>
+      <xloc>752</xloc>
       <yloc>96</yloc>
     </GUI>
   </transform>
